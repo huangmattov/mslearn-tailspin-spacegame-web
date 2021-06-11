@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/matthieuhuang/Space%20game%20-%20web%20-%20Pipeline/_apis/build/status/huangmattov.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/matthieuhuang/Space%20game%20-%20web%20-%20Pipeline/_build/latest?definitionId=9&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
